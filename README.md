@@ -1,4 +1,4 @@
-## Getting Started
+## Getting Started with dsa
 
 Welcome to the DSA Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
