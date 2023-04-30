@@ -2,6 +2,8 @@
 
 Welcome to the DSA Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
+first install jdk version 10 or greater than 10th version
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
